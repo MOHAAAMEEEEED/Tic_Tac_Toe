@@ -1,4 +1,3 @@
-```py
 board = ['-', '-', '-',
          '-', '-', '-',
          '-', '-', '-']
@@ -100,4 +99,4 @@ while gameRunning:
     checkWin()
     checkTie(board)
     switchPlayer()
-  ```
+  
